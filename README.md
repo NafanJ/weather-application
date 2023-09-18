@@ -1,1 +1,1 @@
-# weather-application
+Trail application @ https://nafanj.github.io/weather-application/
